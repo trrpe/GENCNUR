@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
 :root{
-    --main-color: #e84242;
+    --main-color: #aba379;
     --black-color: #292727;
     --border: 0.1rem solid rgba(255, 255, 255, 04)
 }
@@ -59,9 +59,20 @@ a{
     padding: 2rem 3.37rem;
     border-radius: 30rem;
     font-size: 1.7rem;
-    color: #212121;
-    background-color: #9e9d81;
+    color: #f5f1f1;
+    background-color: #000000;
     cursor: pointer;
+}
+
+.home .btn-bt{
+    margin-top: 1rem;
+    display: inline-block;
+    padding: 2rem 3.37rem;
+    border-radius: 1rem;
+    font-size: 1.7rem;
+    color: #353535;
+    background-color: #737257;
+    cursor: pointer; 
 }
 
 .btn:hover{ 
@@ -123,16 +134,16 @@ a{
 }
 
 .header .logo img {
-    height: 10rem;
+    height: 9rem;
 }
 
 .header {
-    background-color: #ffff;
+    background-color: #f5eea3;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0 7%;
-    margin: 2rem 7%;
+    margin: 2rem 20%;
     border-radius: 30rem;
     box-shadow: 0px 0px 17px -2px rgba(0, 0, 0, 0.75);
     position: sticky;
@@ -234,9 +245,14 @@ a{
   display: flex;
   align-items: center;
 }
-
-.home .btn a{
-    
+.home .btn-bt{
+        position: absolute;
+        top: 40%;
+        left: 25%;
+        width: 15%;
+        object-fit:cover;
+        transform: translate(-120%, +350%);
+        border-radius: 3rem;
 }
 
 .home .content{
