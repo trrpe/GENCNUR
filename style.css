@@ -215,13 +215,13 @@ a{
   align-items: center;
 }
 .home .btn-bt{
-        position: absolute;
-        top: 20%;
-        left: 30%;
-        width: 20%;
-        object-fit:cover;
-        transform: translate(-120%, +350%);
-        border-radius: 3rem;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    width: 20%;
+    object-fit:cover;
+    transform: translate(-120%, +350%);
+    border-radius: 3rem;
 }
 
 .home .content{
