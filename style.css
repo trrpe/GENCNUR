@@ -208,6 +208,7 @@ a{
 .home{
   min-height: 100vh;
   background: url(../images/home.png);
+  no-repeat;
   background-size: cover;
   background-position: center;
   margin-top: -14.5rem;
