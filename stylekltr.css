@@ -1,13 +1,50 @@
 /*! baslık  start */
-.menu .box-container p{
+.menu .box-container1 p{
     margin-top: 1vh;
     margin-right: 15vh;
     margin-bottom: 10vh;
+    font-weight: bold; 
+    font-size: 20px;
+    font-family: sans-serif"
 }
-.menu .box-container a{
+.menu .box-container1 a{
     font-size: 15px;
+    font-family: sans-serif;
 }
-.menu .box-container .a{
+.menu .box-container2 p{
+    margin-top: 1vh;
+    margin-right: 15vh;
+    margin-bottom: 10vh;
+    font-weight: bold; 
+    font-size: 20px;
+    font-family: sans-serif"
+}
+.menu .box-container2 a{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.menu .box-container3 p{
+    margin-top: 1vh;
+    margin-right: 15vh;
+    margin-bottom: 10vh;
+    font-weight: bold; 
+    font-size: 20px;
+    font-family: sans-serif"
+}
+.menu .box-container3 a{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.menu .box-container4 p{
+    margin-top: 1vh;
+    margin-right: 15vh;
+    margin-bottom: 10vh;
+    font-weight: bold; 
+    font-size: 20px;
+    font-family: sans-serif"
+}
+.menu .box-container4 a{
+    font-size: 15px;
     font-family: sans-serif;
 }
 /*! baslık  end */
